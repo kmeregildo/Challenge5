@@ -21,28 +21,3 @@ Simply click on the textarea of the timeblock you want to alter and type in your
 * Bootstrap
 * jQuery
 * moment.js
-
-## Screenshots
-
-![Screenshot of deployed app](assets/images/_C__Users_Dylan_repos_Homework_05-Third-Party-APIs-Work-Day-Scheduler_index.html.png)
-
-## GIF
-
-![GIF of the app in action](https://media.giphy.com/media/psbAOU2rH6rV6qny8r/giphy.gif)
-
-## Contact
-
-### email
-
-Dylan Cole <logboarddjc@gmail.com>
-
-## License
- 
-MIT License
-
-Copyright (c) [2021] [Dylan Cole]
-# Challenge5
-=======
-# Challenge 5
-Work Day Scheduler
->>>>>>> 7aede9299fac1014ca0ac281460fa07ded744e3c

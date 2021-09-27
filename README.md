@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 05-Third-Party-APIs-Work-Day-Scheduler
  
 ## Link to deployed application

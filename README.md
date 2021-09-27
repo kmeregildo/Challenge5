@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 05-Third-Party-APIs-Work-Day-Scheduler
  
 ## Link to deployed application
@@ -41,3 +42,7 @@ MIT License
 
 Copyright (c) [2021] [Dylan Cole]
 # Challenge5
+=======
+# Challenge 5
+Work Day Scheduler
+>>>>>>> 7aede9299fac1014ca0ac281460fa07ded744e3c
